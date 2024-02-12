@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 folder_path = 'testfiles'
-sample_files = [doc for doc in os.listdir(folder_path) if doc.endswith('.txt')]
+sample_files = sorted([doc for doc in os.listdir(folder_path) if doc.endswith('.txt')])
 
 sample_contents = []
 for File in sample_files:
@@ -54,7 +54,10 @@ def create_matrix_data(similarity_data, sample_files):
     for i in range(len(sample_files)):
         matrix[i][i] = 1
 
-    return matrix
+    return {
+        'matrix': matrix,
+        'names': sample_files
+    }
 
 # Assuming check_plagiarism() function returns the similarity scores
 similarity_data = check_plagiarism()
