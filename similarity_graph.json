@@ -42,312 +42,312 @@
         {
             "source": "testfile_1.txt",
             "target": "testfile_2.txt",
-            "value": 0.26
+            "value": 0.38
         },
         {
             "source": "testfile_1.txt",
             "target": "testfile_3.txt",
-            "value": 0.3
+            "value": 0.39
         },
         {
             "source": "testfile_1.txt",
+            "target": "testfile_4.txt",
+            "value": 0.31
+        },
+        {
+            "source": "testfile_1.txt",
+            "target": "testfile_5.txt",
+            "value": 0.39
+        },
+        {
+            "source": "testfile_1.txt",
+            "target": "testfile_6.txt",
+            "value": 0.25
+        },
+        {
+            "source": "testfile_1.txt",
+            "target": "testfile_7.txt",
+            "value": 0.44
+        },
+        {
+            "source": "testfile_1.txt",
+            "target": "testfile_8.txt",
+            "value": 0.3
+        },
+        {
+            "source": "testfile_2.txt",
+            "target": "testfile_1.txt",
+            "value": 0.38
+        },
+        {
+            "source": "testfile_2.txt",
+            "target": "testfile_2.txt",
+            "value": 1.0
+        },
+        {
+            "source": "testfile_2.txt",
+            "target": "testfile_3.txt",
+            "value": 0.48
+        },
+        {
+            "source": "testfile_2.txt",
+            "target": "testfile_4.txt",
+            "value": 0.35
+        },
+        {
+            "source": "testfile_2.txt",
+            "target": "testfile_5.txt",
+            "value": 0.51
+        },
+        {
+            "source": "testfile_2.txt",
+            "target": "testfile_6.txt",
+            "value": 0.31
+        },
+        {
+            "source": "testfile_2.txt",
+            "target": "testfile_7.txt",
+            "value": 0.35
+        },
+        {
+            "source": "testfile_2.txt",
+            "target": "testfile_8.txt",
+            "value": 0.44
+        },
+        {
+            "source": "testfile_3.txt",
+            "target": "testfile_1.txt",
+            "value": 0.39
+        },
+        {
+            "source": "testfile_3.txt",
+            "target": "testfile_2.txt",
+            "value": 0.48
+        },
+        {
+            "source": "testfile_3.txt",
+            "target": "testfile_3.txt",
+            "value": 1.0
+        },
+        {
+            "source": "testfile_3.txt",
             "target": "testfile_4.txt",
             "value": 0.32
         },
         {
-            "source": "testfile_1.txt",
+            "source": "testfile_3.txt",
             "target": "testfile_5.txt",
-            "value": 0.26
+            "value": 0.45
         },
         {
-            "source": "testfile_1.txt",
+            "source": "testfile_3.txt",
             "target": "testfile_6.txt",
             "value": 0.3
         },
         {
-            "source": "testfile_1.txt",
-            "target": "testfile_7.txt",
-            "value": 0.3
-        },
-        {
-            "source": "testfile_1.txt",
-            "target": "testfile_8.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_2.txt",
-            "target": "testfile_1.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_2.txt",
-            "target": "testfile_2.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_2.txt",
-            "target": "testfile_3.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_2.txt",
-            "target": "testfile_4.txt",
-            "value": 0.27
-        },
-        {
-            "source": "testfile_2.txt",
-            "target": "testfile_5.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_2.txt",
-            "target": "testfile_6.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_2.txt",
-            "target": "testfile_7.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_2.txt",
-            "target": "testfile_8.txt",
-            "value": 0.24
-        },
-        {
-            "source": "testfile_3.txt",
-            "target": "testfile_1.txt",
-            "value": 0.3
-        },
-        {
-            "source": "testfile_3.txt",
-            "target": "testfile_2.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_3.txt",
-            "target": "testfile_3.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_3.txt",
-            "target": "testfile_4.txt",
-            "value": 0.25
-        },
-        {
-            "source": "testfile_3.txt",
-            "target": "testfile_5.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_3.txt",
-            "target": "testfile_6.txt",
-            "value": 1.0
-        },
-        {
             "source": "testfile_3.txt",
             "target": "testfile_7.txt",
-            "value": 1.0
+            "value": 0.36
         },
         {
             "source": "testfile_3.txt",
             "target": "testfile_8.txt",
-            "value": 0.92
+            "value": 0.36
         },
         {
             "source": "testfile_4.txt",
             "target": "testfile_1.txt",
+            "value": 0.31
+        },
+        {
+            "source": "testfile_4.txt",
+            "target": "testfile_2.txt",
+            "value": 0.35
+        },
+        {
+            "source": "testfile_4.txt",
+            "target": "testfile_3.txt",
             "value": 0.32
         },
         {
             "source": "testfile_4.txt",
-            "target": "testfile_2.txt",
-            "value": 0.27
-        },
-        {
-            "source": "testfile_4.txt",
-            "target": "testfile_3.txt",
-            "value": 0.25
-        },
-        {
-            "source": "testfile_4.txt",
             "target": "testfile_4.txt",
             "value": 1.0
         },
         {
             "source": "testfile_4.txt",
             "target": "testfile_5.txt",
-            "value": 0.27
+            "value": 0.44
         },
         {
             "source": "testfile_4.txt",
             "target": "testfile_6.txt",
-            "value": 0.25
+            "value": 0.33
         },
         {
             "source": "testfile_4.txt",
             "target": "testfile_7.txt",
-            "value": 0.25
+            "value": 0.37
         },
         {
             "source": "testfile_4.txt",
             "target": "testfile_8.txt",
+            "value": 0.41
+        },
+        {
+            "source": "testfile_5.txt",
+            "target": "testfile_1.txt",
+            "value": 0.39
+        },
+        {
+            "source": "testfile_5.txt",
+            "target": "testfile_2.txt",
+            "value": 0.51
+        },
+        {
+            "source": "testfile_5.txt",
+            "target": "testfile_3.txt",
+            "value": 0.45
+        },
+        {
+            "source": "testfile_5.txt",
+            "target": "testfile_4.txt",
+            "value": 0.44
+        },
+        {
+            "source": "testfile_5.txt",
+            "target": "testfile_5.txt",
+            "value": 1.0
+        },
+        {
+            "source": "testfile_5.txt",
+            "target": "testfile_6.txt",
             "value": 0.21
         },
         {
             "source": "testfile_5.txt",
-            "target": "testfile_1.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_5.txt",
-            "target": "testfile_2.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_5.txt",
-            "target": "testfile_3.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_5.txt",
-            "target": "testfile_4.txt",
-            "value": 0.27
-        },
-        {
-            "source": "testfile_5.txt",
-            "target": "testfile_5.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_5.txt",
-            "target": "testfile_6.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_5.txt",
             "target": "testfile_7.txt",
-            "value": 0.26
+            "value": 0.37
         },
         {
             "source": "testfile_5.txt",
             "target": "testfile_8.txt",
-            "value": 0.24
+            "value": 0.42
         },
         {
             "source": "testfile_6.txt",
             "target": "testfile_1.txt",
-            "value": 0.3
-        },
-        {
-            "source": "testfile_6.txt",
-            "target": "testfile_2.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_6.txt",
-            "target": "testfile_3.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_6.txt",
-            "target": "testfile_4.txt",
             "value": 0.25
         },
         {
             "source": "testfile_6.txt",
-            "target": "testfile_5.txt",
-            "value": 0.26
+            "target": "testfile_2.txt",
+            "value": 0.31
         },
         {
             "source": "testfile_6.txt",
-            "target": "testfile_6.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_6.txt",
-            "target": "testfile_7.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_6.txt",
-            "target": "testfile_8.txt",
-            "value": 0.92
-        },
-        {
-            "source": "testfile_7.txt",
-            "target": "testfile_1.txt",
+            "target": "testfile_3.txt",
             "value": 0.3
         },
         {
-            "source": "testfile_7.txt",
-            "target": "testfile_2.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_7.txt",
-            "target": "testfile_3.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_7.txt",
+            "source": "testfile_6.txt",
             "target": "testfile_4.txt",
-            "value": 0.25
+            "value": 0.33
         },
         {
-            "source": "testfile_7.txt",
+            "source": "testfile_6.txt",
             "target": "testfile_5.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_7.txt",
-            "target": "testfile_6.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_7.txt",
-            "target": "testfile_7.txt",
-            "value": 1.0
-        },
-        {
-            "source": "testfile_7.txt",
-            "target": "testfile_8.txt",
-            "value": 0.92
-        },
-        {
-            "source": "testfile_8.txt",
-            "target": "testfile_1.txt",
-            "value": 0.26
-        },
-        {
-            "source": "testfile_8.txt",
-            "target": "testfile_2.txt",
-            "value": 0.24
-        },
-        {
-            "source": "testfile_8.txt",
-            "target": "testfile_3.txt",
-            "value": 0.92
-        },
-        {
-            "source": "testfile_8.txt",
-            "target": "testfile_4.txt",
             "value": 0.21
         },
         {
+            "source": "testfile_6.txt",
+            "target": "testfile_6.txt",
+            "value": 1.0
+        },
+        {
+            "source": "testfile_6.txt",
+            "target": "testfile_7.txt",
+            "value": 0.28
+        },
+        {
+            "source": "testfile_6.txt",
+            "target": "testfile_8.txt",
+            "value": 0.27
+        },
+        {
+            "source": "testfile_7.txt",
+            "target": "testfile_1.txt",
+            "value": 0.44
+        },
+        {
+            "source": "testfile_7.txt",
+            "target": "testfile_2.txt",
+            "value": 0.35
+        },
+        {
+            "source": "testfile_7.txt",
+            "target": "testfile_3.txt",
+            "value": 0.36
+        },
+        {
+            "source": "testfile_7.txt",
+            "target": "testfile_4.txt",
+            "value": 0.37
+        },
+        {
+            "source": "testfile_7.txt",
+            "target": "testfile_5.txt",
+            "value": 0.37
+        },
+        {
+            "source": "testfile_7.txt",
+            "target": "testfile_6.txt",
+            "value": 0.28
+        },
+        {
+            "source": "testfile_7.txt",
+            "target": "testfile_7.txt",
+            "value": 1.0
+        },
+        {
+            "source": "testfile_7.txt",
+            "target": "testfile_8.txt",
+            "value": 0.27
+        },
+        {
+            "source": "testfile_8.txt",
+            "target": "testfile_1.txt",
+            "value": 0.3
+        },
+        {
+            "source": "testfile_8.txt",
+            "target": "testfile_2.txt",
+            "value": 0.44
+        },
+        {
+            "source": "testfile_8.txt",
+            "target": "testfile_3.txt",
+            "value": 0.36
+        },
+        {
+            "source": "testfile_8.txt",
+            "target": "testfile_4.txt",
+            "value": 0.41
+        },
+        {
             "source": "testfile_8.txt",
             "target": "testfile_5.txt",
-            "value": 0.24
+            "value": 0.42
         },
         {
             "source": "testfile_8.txt",
             "target": "testfile_6.txt",
-            "value": 0.92
+            "value": 0.27
         },
         {
             "source": "testfile_8.txt",
             "target": "testfile_7.txt",
-            "value": 0.92
+            "value": 0.27
         },
         {
             "source": "testfile_8.txt",
